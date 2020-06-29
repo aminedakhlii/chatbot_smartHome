@@ -21,7 +21,7 @@
          "responses": ["Happy to help!", "Any time!", "My pleasure"]
         },
         {"tag": "bulling",
-         "patterns": ["you are stupid", "fuck you", "you are dumb" , "let's have sex"],
+         "patterns": ["you are stupid", "you are dumb"],
          "responses": ["maybe you should try comedy..", "I hope you grow up one day..", "ha ha ha .. so funny"]
         },
         {"tag": "status",
